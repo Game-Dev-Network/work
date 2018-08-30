@@ -112,7 +112,7 @@ We get that information so that we can identify different businesses with a same
 
 We use a renewal registry to make sure that postings are kept up to date. This reduces time when searching as it should reduce the number of outdated posts.
 
-1. Calculate your renewal date over [here](https://Game-Dev-Network.github.io/work). Make sure to select the right type of posting otherwise your pull request might be rejected
+1. Calculate your renewal date over [here](https://Game-Dev-Network.github.io/work/). Make sure to select the right type of posting otherwise your pull request might be rejected
 2. Generate a new version 4 UUID [here](https://www.uuidgenerator.net/version4)
 3. Edit the [renewals register](registers/renewals.tsv), and add a new line
 4. Use the UUID you just generated as your `Posting UUID`
@@ -172,7 +172,7 @@ You need to make these changes in the `.tsv` primary category index within your 
 
 You can update a posting at any time. Simply edit the necessary files as long as they continue follow the requirements in place for creating a posting at the time of the edit. You should not update the renewal date when editing your posting.
 
-You can renew your posting by recalculating the renewal date up to 6 days before your renewal date (Monday to Sunday inclusive). Although we may send out a reminder to renew, we may choose to remove any postings that have expired whether or not we did send out a reminder.
+You can renew your posting by recalculating the renewal date up to 6 days before your renewal date (Monday to Sunday inclusive). Although we may send out a reminder to renew, we may also choose to remove any postings that have expired regardless of if we did send out a reminder.
 
 ## Removing a posting before expiry or a business profile
 
