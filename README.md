@@ -51,7 +51,7 @@ All the primary categories in these directories are the same, so the advice belo
 
 ### Deciding the primary category
 
-You'll need a few different pieces of information to submit your posting. Firstly you'll need to decide which primary category your posting falls into. We have separate registries for each category, roughly matching the Game Dev Network roles. At present, the posting should fall into one of the following primary categories:
+You'll need a few different pieces of information to submit your posting. Firstly you'll need to decide which primary category your posting falls into. We have separate indices for each category, roughly matching the Game Dev Network roles. At present, the posting should fall into one of the following primary categories:
 
 * 3D Modeller
 * Artist
