@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="UTF-8">
+    <title>Renewal Date Calculator</title>
+
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link type="text/css" rel="stylesheet" href="./css/materialize.min.css">
+    <link type="text/css" rel="stylesheet" href="./css/index.css">
+  </head>
+  <body>
+    <main class="valign-wrapper">
+      <div class="container grey lighten-4 z-depth-1 hoverable">
+        <div class="container">
+          <div class="center-align">
+            <h5>Renewal Date Calculator</h5>
+            <i>Use this to calculate your renewal date for your posting</i>
+          </div>
+          <div class="divider"></div>
+          <div class="row">
+						<div class="input-field col offset-l1 l4 m5 offset-s1 s10">
+							<select id="postingType">
+								<option value="UVP">Unpaid Vacancy Posting</option>
+								<option value="PVP">Paid Vacancy Posting</option>
+								<option value="LFWP">Looking For Work Posting</option>
+							</select>
+							<label for="postingType">Posting Type</label>
+						</div>
+						<div class="col col offset-l2 l4 offset-m2 m5 offset-s1 s10">
+							<textarea id="PRD" class="materialize-textarea" readonly></textarea>
+							<label for="PRD">Posting Renewal Date</label>
+						</div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script type="text/javascript" src="./lib/jquery.min.js"></script>
+    <script type="text/javascript" src="./lib/materialize.min.js"></script>
+    <script type="text/javascript" src="./lib/moment.js"></script>
+    <script type="text/javascript" src="./lib/index.js"></script>
+  </body>
+</html>
