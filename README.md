@@ -14,16 +14,12 @@
 * [Updating or renewing a posting](README.md#updating-or-renewing-a-posting)
 * [Removing a posting before expiry or a business profile](README.md#removing-a-posting-before-expiry-or-a-business-profile)
 
----
-
 ## How do I search for a vacancy/worker?
 
 If you're looking for:
 * a Paid Vacancy Posting then search `./looking-for-members-paid/`,
 * an Unpaid Vacancy Posting (including revenue shares) vacancy then search `./looking-for-memebrs`,
 * a Looking For Work Posting then search `./looking-for-work`
-
----
 
 ## Conversion from Game Dev Network
 
@@ -32,8 +28,6 @@ We use slightly different terms to the old Discord channels
 * Posts in `#lfm-paid-only` are now Paid Vacancy Postings (or PVPs)
 * Posts in `#looking-for-members` are now Unpaid Vacancy Postings (or UVPs)
 * Posts in `#looking-for-work` are now Looking For Work Postings (or LFWPs)
-
----
 
 ## Adding a posting
 
@@ -174,15 +168,11 @@ You need to make these changes in the `.tsv` primary category index within your 
     * the link to your additional information (the format is `https://github.com/Game-Dev-Network/work/tree/master/looking-for-work/profiles/{Business UUID}/{Posting UUID}/README.md`)
     * your `Business UUID`
 
----
-
 ## Updating or renewing a posting
 
 You can update a posting at any time. Simply edit the necessary files as long as they continue follow the requirements in place for creating a posting at the time of the edit. You should not update the renewal date when editing your posting.
 
 You can renew your posting by recalculating the renewal date up to 6 days before your renewal date (Monday to Sunday inclusive). Although we may send out a reminder to renew, we may choose to remove any postings that have expired whether or not we did send out a reminder.
-
----
 
 ## Removing a posting before expiry or a business profile
 
