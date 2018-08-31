@@ -102,8 +102,7 @@ If you've not got one, then you'll only need to create a new one once:
 3. Use the UUID you just generated as your `Business UUID`
 4. Fill in the following information with the tab key to go to the next column:
   * your business name (if you've not got one, use the full list of owners/partners separated by a comma)
-  * your country of registration if you've got one, otherwise your main country of operation
-  * your legal structure (if you're unsure, you're probably a "sole trader" if you're the only owner, and a "general partnership" if there's more than one owner)
+  * your official country of registration if you've got one, otherwise your main country of operation
   * your contact email address and discord username, where we'll send renewal reminders
 
 We get that information so that we can identify different businesses with a same or similar name. We then use the UUID to make sure each business then gets their own unique space.
